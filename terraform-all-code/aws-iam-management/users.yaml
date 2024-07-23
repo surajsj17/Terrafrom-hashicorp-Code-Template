@@ -1,0 +1,6 @@
+users:
+  - username: pradeep
+    roles: [AmazonEC2FullAccess]
+  - username: ramesh
+    roles: [AmazonEC2FullAccess, AmazonS3ReadOnlyAccess]
+      
